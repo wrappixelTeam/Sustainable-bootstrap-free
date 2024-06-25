@@ -1,0 +1,23 @@
+/*
+Template Name: Sustainable
+Author: BBBootstrap
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+
+@import "variable";
+@import "bootstrap/bootstrap.scss";
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css";
+@import "./global";
+
+
+//  Layout
+@import "../scss/layout/footer/footer-dark/footer-dark";
+@import "../scss/layout/header/header";
+
+
+
+@import "../scss/banners/banner-it/banner-it";
+@import "../scss/services/services-it/services-it";
+@import "../scss/faq/faq-sass";
+@import "../scss/responsive";
